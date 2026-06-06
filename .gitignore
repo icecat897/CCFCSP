@@ -1,0 +1,14 @@
+# 编译产物 / Build artifacts
+*.exe
+*.o
+*.obj
+*.out
+a.out
+output/
+
+# 编辑器 / 系统文件
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
